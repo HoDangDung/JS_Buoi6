@@ -1,5 +1,5 @@
 function tinh(){
-    let n = document.getElementById("n").value*1,
+    let n = document.getElementById("num").value*1,
     m = 1;
     for (let i = 1; i <= n; i++) {
         m = m * i;
